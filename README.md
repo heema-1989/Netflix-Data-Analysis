@@ -45,4 +45,7 @@ ______
 ## Author
 - Github: https://github.com/heema-1989/Netflix-Data-Analysis/edit/main/README.md  
 - Email: heemag2002@gmail.com
+________
+## References
+[1] https://towardsdatascience.com/using-neural-nets-to-recommend-shows-on-netflix-d4fbecffe0b0
 
