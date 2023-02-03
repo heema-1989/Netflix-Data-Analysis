@@ -2,12 +2,11 @@
 ![img](https://user-images.githubusercontent.com/122275233/216485326-61e725f4-1971-4422-9968-d274aca21692.png)  
 This ia a detailed data analysis for popular streaming service Netflix. A web-app which can be used to get recommendations for a series/movie, the app recommends a list of media according to list of entered choices of movies/series in your preferred language.  
 ### Table of contents
-1.  **[Objective](#Objective)**
-2.  __Technologies used__
-3.  __Getting data__
-4.  **Preprocessing and feature selection**
-5.  __Model Selection__
-6.  __Predicting what to watch in Netflix__  
+1.  **[Objective](#objective)**
+3.  __[Getting data](#getting-data)__
+4.  **[Preprocessing and feature selection](#preprocessing-and-feature-selection)**
+5.  __[Model Selection](#model-selection)__
+______ 
 
 ### Objective
 The objective of this problem is to analyse users watch history and recommend them shows based on the genre that are most watched by the users.
